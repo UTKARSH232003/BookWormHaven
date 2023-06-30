@@ -10,6 +10,7 @@ export default function Card(props) {
                 <p class="card-text">{props.authors}</p>
                 <a href="/" class="btn btn-primary">Go somewhere</a>
             </div>
+            <div></div>
         </div>
     </>
   )
