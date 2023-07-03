@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from './Card'
 
-export default function AllCards() {
+export default function AllCards(){
   return (
     <div>
         <h1 className="text-center"> 
